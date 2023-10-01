@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MahmoudShawqat
 - 👀 I’m interested in Learning New things about Cs
 - 🌱 I’m currently learning python 
-- 📫 How to reach me in linkedin my username : Mahmoud Khalid[https://www.linkedin.com/in/mahmoud-khalid-8b4918253/]
+- 📫 How to reach me in linkedin my username :  [Mahmoud Khalid](https://www.linkedin.com/in/mahmoud-khalid-8b4918253/)
 
 <!---
 MahmoudShawqat/MahmoudShawqat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
