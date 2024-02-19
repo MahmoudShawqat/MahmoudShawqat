@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahmoudShawqat
 - 👀 I’m interested in Learning New things about Cs
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning front-end track 
 - 📫 How to reach me in linkedin my username :  [Mahmoud Khalid](https://www.linkedin.com/in/mahmoud-khalid-8b4918253/)
 
 <!---
